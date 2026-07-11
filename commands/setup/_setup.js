@@ -33,7 +33,7 @@ const settingsPanel = {
       title: "📢 Announcement Channel",
       description: "Enter the channel ID where announcements will be posted.",
       type: "string",
-      placeholder: "@channelusername or -100123456789",
+      placeholder: "@channelusername or -1002508968072",
     },
     {
       name: "WITHDRAW_NOTIFICATION_CHANNEL",
@@ -41,7 +41,7 @@ const settingsPanel = {
       description:
         "Enter the channel ID where withdrawal notifications will be sent.",
       type: "string",
-      placeholder: "@channelusername or -100123456789",
+      placeholder: "@channelusername or -1002508968072",
     },
     {
       name: "CURRENCY",
